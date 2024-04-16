@@ -1,0 +1,34 @@
+name: Migration
+description: Pipeline Migration
+title: "[Pipeline Migration]"
+labels: ["Migration"]
+projects: ["Overture Pipeline Migration"]
+assignees: 
+  - ADD GitHub username
+body:
+  - type: textarea
+    id: Pipeline-Migration
+    attributes:
+      label: Pipeline Migration
+      description: Outline Pipeline Migration Details
+      placeholder: Tell us what you see
+      value: "Add details" 
+    validations:
+      required: true
+  - type: dropdown
+    id: Phase-of-development
+    attributes:
+      label: Issue dependency with other TF Groups
+      multiple: true
+      options:
+        - Phase-1
+        - Phase-2
+        - Phase-3
+        - Unknown
+  - type: checkboxes
+    id: Pipeline-question
+    attributes:
+      label: Pipeline question
+      description: Is this platform-level work that the Data Platform TF should own?
+      options:
+        - label: Check box if YES
