@@ -1,6 +1,18 @@
-# Add WG Name
+# Workflow Automation
 
-## Source Code
+## Templates
+```
+Add details
+```
+
+## Tagging
+```
+Add details
+```
+
+## Template details
+
+### Source Code
 Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository. Source code may not be a required element of an Approved Deliverable specification.
 
 ```
@@ -39,13 +51,13 @@ By making a contribution to this project, I certify that:
     this project or the open source license(s) involved.
 ```
 
-## Dataset
+### Dataset
 
 ```
 add details
 ```
 
-## Patent Licensing
+### Patent Licensing
 
 ```
 Add details
