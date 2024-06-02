@@ -2,7 +2,7 @@ name: Your favorite animals
 description: Pick animals you love
 title: "[Animals]"
 labels: ["animals"]
-projects: ["Master"]
+projects: ["Workflow automation"]
 assignees: seanmcilroy29
 body:
   - type: markdown
