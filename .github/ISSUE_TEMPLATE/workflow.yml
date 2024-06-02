@@ -20,9 +20,9 @@ body:
       label: phases
       multiple: false
       options:
-        - 'phase-1'
-        - 'phase-2'
-        - 'phase-3'
+        - 'phase 1'
+        - 'phase 2'
+        - 'phase 3'
         
   - type: checkboxes
     id: Platform-work-question
