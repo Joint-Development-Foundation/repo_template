@@ -205,13 +205,13 @@ policy:
         block-list: ['other']
         label:
           - name: 'phase 1'
-            keys: ['phase-1']
+            keys: ['phase 1']
 
           - name: 'phase 2'
-            keys: ['phase-2']
+            keys: ['phase 2']
             
           - name: 'phase 3'
-            keys: ['phase-3']
+            keys: ['phase 3']
    
       - id: ['milestone']
         block-list: ['other']
