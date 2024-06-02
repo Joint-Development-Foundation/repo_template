@@ -199,7 +199,7 @@ policy:
           - name: 'RFE 🎁'
             keys: ['Feature Request']
 
-  - template: ['phase_of_development.yml']
+  - template: ['workflow']
     section:
       - id: [phases]
         block-list: ['other']
