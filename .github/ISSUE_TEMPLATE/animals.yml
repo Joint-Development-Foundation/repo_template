@@ -1,0 +1,92 @@
+name: Your favorite animals
+description: Pick animals you love
+title: "[Animals]"
+labels: ["animals"]
+projects: ["Master"]
+assignees: seanmcilroy29
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to fill out this issue!
+
+  - type: dropdown
+    id: animals
+    attributes:
+      label: Animals
+      description: Please pick all the animals you like.
+      multiple: true
+      options:
+        - 'I do not like animals'
+        - '🦍 Gorilla'
+        - '🐶 Dog'
+        - '🐺 Wolf'
+        - '🦊 Fox'
+        - '🐴 Horse'
+        - '🐓 Rooster'
+        - '🐦 Bird'
+        - '🐧 Penguin'
+        - '🐸 Frog'
+        - '🐬 Dolphin'
+        - '🐡 Blowfish'
+        - '🐟 Fish'
+        - '🦈 Shark'
+        - '🐛 Bug'
+        - '🕷️ Spider'
+        - '🐊 Crocodile'
+        - 'other'
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: food
+    attributes:
+      label: What kinds of food do you like?
+      description: You may select more than one.
+      options:
+        - label: '🍎 apple'
+        - label: '🥒 cucumber'
+        - label: '🍊 orange'
+        - label: '🥔 potato'
+        - label: '🍅 tomato'
+        - label: 'Other'
+        - label: "I don't like food"
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity impact of your decision
+      description: Please choose the severity.
+      multiple: false
+      options:
+        - 'I do not know'
+        - 'Low'
+        - 'Medium'
+        - 'High'
+        - 'Urgent'
+        - 'Other'
+    validations:
+      required: false
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: Please choose the priority.
+      multiple: false
+      options:
+        - 'I do not know'
+        - 'Low'
+        - 'Medium'
+        - 'High'
+        - 'Urgent'
+        - 'Other'
+    validations:
+      required: false
+
+  - type: textarea
+    id: other
+    attributes:
+      label: Other info
+      description: Write your ideas ...
+    validations:
+      required: false
