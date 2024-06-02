@@ -1,8 +1,8 @@
-name: Phase-of-development
-description: Phase development submission
-title: "[Phase-Dev]"
-labels: ["Phase-Dev"]
-projects: ["Master", "Overture Pipeline Migration"]
+name: workflow
+description: workflow
+title: "[workflow]"
+labels: ["workflow"]
+projects: ["Workflow automation"]
 assignees: 
   - seanmcilroy29
 body:
