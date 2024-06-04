@@ -199,7 +199,7 @@ policy:
           - name: 'RFE 🎁'
             keys: ['Feature Request']
 
-  - template: ['workflow']
+  - template: ['workflow.yml']
     section:
       - id: [phases]
         block-list: ['other']
@@ -230,6 +230,41 @@ policy:
 
           - name: 'high'
             keys: ['high']
+
+  - template: ['pipeline_migration.yml']
+    section:
+      - id: [phases]
+        block-list: ['other']
+        label:
+          - name: 'phase 1'
+            keys: ['phase 1']
+
+          - name: 'phase 2'
+            keys: ['phase 2']
+            
+          - name: 'phase 3'
+            keys: ['phase 3']
+   
+      - id: ['pipeline_migration']
+        block-list: ['other']
+        label:
+          - name: 'milestone 1'
+            keys: ['milestone-1']
+
+          - name: 'milestone 2'
+            keys: ['milestone-2']     
+
+          - name: 'milestone 3'
+            keys: ['milestone-3']            
+
+          - name: 'medium'
+            keys: ['medium']
+
+          - name: 'high'
+            keys: ['high']
+
+          - name: 'urgent'
+            keys: ['urgent']            
 
           - name: 'urgent'
             keys: ['urgent']
