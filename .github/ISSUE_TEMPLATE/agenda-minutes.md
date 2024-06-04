@@ -41,8 +41,13 @@ Objections to approving the agenda?
 ```
 Objections to approving the previous meeting minutes?
 ```
-## Action Item Updates
-- [ ] Add Issue details here
+## Previous meeting action Items
+- [ ] List of AI's
+
+## Action Item Updates - Link to the project dashboard
+- [ ] Link to bug tags
+- [ ] Ling to question tags
+- [ ] Link to action item tags
 
 ## Add topic
 - [ ] Add discussion 
@@ -56,6 +61,5 @@ Objections to approving the previous meeting minutes?
 ## Adjourn
 - [ ] No objections to adjournment
 ----------
-## Planning Reminders
+## Meeting Action Items
 - add links
-Age
