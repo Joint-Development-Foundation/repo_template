@@ -1,5 +1,6 @@
-# Workflow Automation
-[See wiki](https://github.com/Joint-Development-Foundation/repo_template/wiki)
+## Workflow Automation
+
+**[See wiki](https://github.com/Joint-Development-Foundation/repo_template/wiki)**
 
 ## Source Code
 Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository. Source code may not be a required element of an Approved Deliverable specification.
