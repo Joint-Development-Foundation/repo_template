@@ -46,7 +46,7 @@ Objections to approving the previous meeting minutes?
 
 ## Action Item Updates - Link to the project dashboard
 - [ ] Link to bug tags
-- [ ] Ling to question tags
+- [ ] Link to question tags
 - [ ] Link to action item tags
 
 ## Add topic
