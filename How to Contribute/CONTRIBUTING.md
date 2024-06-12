@@ -529,21 +529,3 @@ By making a contribution to this project, I certify that:
 > 1. The contribution is based upon previous work that, to the best of my knowledge, is covered under an appropriate open source license and I have the right under that license to submit that work with modifications, whether created in whole or in part by me, under the same open source license (unless I am permitted to submit under a different license), as indicated in the file; or
 > 1. The contribution was provided directly to me by some other person who certified (1), (2) or (3) and I have not modified it.
 > 1. I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is
-> 2. 
-
-### Source Code
-Working Group Participants contributing source code to this Working Group agree that those source code contributions are subject to the Developer Certificate of Origin version 1.1, available at http://developercertificate.org/, the license indicated below, and any policies and governance rules included in the source code’s repository. Source code may not be a required element of an Approved Deliverable specification. - [See DCO](https://github.com/OvertureMaps/template-repo/blob/main/dco.md) 
-
-### Dataset
-Working Group contributing data to a dataset to this Working Group agree that those data contributions are subject to the license
-indicated below. The dataset may not be a required element of an Approved Deliverable specification.
-```
-Data contributed to ODBL licensed datasets will be contributed under both the ODBL and CDLA permissive v2.
-Contributions to CDLA permissive v2 datasets will be contributed under the CDLA permissive v2.
-```
-
-### Patent Licensing
-Each Working Group must specify the patent mode under which it will operate prior to initiating any work on any Draft Deliverable or Approved Deliverable other than source code or datasets. The patent mode for this Working Group is;
-```
-No Patent License. No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
-```
